@@ -1,0 +1,11 @@
+File Description:
+ - Report
+  - CA1-EB5204-Sentiment_Classification_Group17 = CA Report
+ - Code
+  - CA1_Classification.ipynb = Main code
+  - CA1_Classification_final.ipynb = Main code improvements
+  - CA1_LabelData.ipynb = Exploration with vaderSentiment lib
+  - CA1_train_test_scored.ipynb = Train-test split from corpus
+ - Output
+  - day2_Group17.json = sentiment results from main code
+  - day2_Group17_final.json = sentiment results from main code improvements
